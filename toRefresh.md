@@ -9,3 +9,7 @@ As you work through this exercise, write down anything that you needed to look u
 - In setpractice had to relearn how to remove from set
 
 - Had trouble figuring out inventory in mappractice, but realized it as a variable mismatch
+
+- In person I found that the age variable wouldnt go by month as if I just put in a year it would refer to my person as 25 even though theyre not 25 yet.
+
+- Also understanding instance variables in java again is always nice.
