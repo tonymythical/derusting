@@ -5,3 +5,5 @@ As you work through this exercise, write down anything that you needed to look u
 - Had to test different ints in numberpractice to verify the modulus working
 
 - In listpractice was unsure about, but then remembered for-each through collections.
+
+- In setpractice had to relearn how to remove from set
