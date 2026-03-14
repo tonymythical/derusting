@@ -7,3 +7,5 @@ As you work through this exercise, write down anything that you needed to look u
 - In listpractice was unsure about, but then remembered for-each through collections.
 
 - In setpractice had to relearn how to remove from set
+
+- Had trouble figuring out inventory in mappractice, but realized it as a variable mismatch
